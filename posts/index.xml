@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog</title>
+    <link>https://blog.zhouhaibing.com/posts/</link>
+    <description>Recent content in Posts on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jul 2020 09:27:34 -0700</lastBuildDate>
+    
+	<atom:link href="https://blog.zhouhaibing.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Hugo and Github Pages</title>
+      <link>https://blog.zhouhaibing.com/posts/hello-hugo-and-github-pages/</link>
+      <pubDate>Sun, 19 Jul 2020 09:27:34 -0700</pubDate>
+      
+      <guid>https://blog.zhouhaibing.com/posts/hello-hugo-and-github-pages/</guid>
+      <description>My site - http://www.zhouhaibing.com has many issues:
+ It is hosted on a place which I can not fully trust. It is running on PHP which I am no longer interested at. The way to publish content is pretty inconvenient.  With the move into Github Pages, I now feel more confortable to write since:
+ Hugo is written in Go, and I&amp;rsquo;m primarily working in Go. This is now https enabled.</description>
+    </item>
+    
+  </channel>
+</rss>
